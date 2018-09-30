@@ -20,8 +20,8 @@ namespace LCS
         {
             int[] L1 = { 34, 72, 13, 44, 25, 30, 10 };   //自定义的数组
             int[] L2 = { 34, 13, 44, 7, 25 };
-            string[] M = { "我", "的", "名字", "是", "刘", "一", "达" };  //自定义的对象
-            string[] N = { "刘", "一达", "是", "个", "好", "名字" };
+            string[] P = { "我", "的", "名字", "是", "刘", "一", "达" };  //自定义的对象
+            string[] Q = { "刘", "一达", "是", "个", "好", "名字" };
             LCS lcs = new LCS();     //实例化一个lcs对象
             lcs.LCS_LENGTH(L1, L2);   //整形情况
             for (int i = 0; i < L1.Length; i++)     //遍历这个矩阵依次打印回溯左上角的元素
@@ -34,14 +34,14 @@ namespace LCS
                     }                   
                 }
             }
-            lcs.LCS_LENGTH1(M, N);    //字符串情况
-            for (int i = 0; i < M.Length; i++)
+            lcs.LCS_LENGTH1(P, Q);    //字符串情况
+            for (int i = 0; i < P.Length; i++)
             {
-                for (int j = 0; j < N.Length; j++)
+                for (int j = 0; j < Q.Length; j++)
                 {                    
                     if (lcs.b[i, j] == "left_up")
                     {
-                        Console.WriteLine("{0}", M[i]);
+                        Console.WriteLine("{0}", P[i]);
                     }
 
                 }
@@ -88,23 +88,23 @@ namespace LCS
                 }
             }
         }
-        public void LCS_LENGTH1(string[] M, string[] N)
+        public void LCS_LENGTH1(string[] P, string[] Q)
         {
-            b = new string[M.Length, N.Length];         //存放左/上/左上
-            c = new int[M.Length + 1, N.Length + 1];    //位于左上右下角元素用于回溯，从而找出公共数值
-            for (int i = 0; i <= M.Length; i++)
+            b = new string[P.Length, Q.Length];         //存放左/上/左上
+            c = new int[P.Length + 1, Q.Length + 1];    //位于左上右下角元素用于回溯，从而找出公共数值
+            for (int i = 0; i <= P.Length; i++)
             {
                 c[i, 0] = 0;//j=0,c[i,j]=0;表示最长公共子序列的长度为0
             }
-            for (int j = 0; j <= N.Length; j++)
+            for (int j = 0; j <= Q.Length; j++)
             {
                 c[0, j] = 0;//i=0,c[i,j]=0;表示最长公共子序列的长度为0
             }
-            for (int i = 0; i < M.Length; i++)
+            for (int i = 0; i < P.Length; i++)
             {
-                for (int j = 0; j < N.Length; j++)
+                for (int j = 0; j < Q.Length; j++)
                 {
-                    if (M[i] == N[j])
+                    if (P[i] == Q[j])
                     {
                         c[i + 1, j + 1] = c[i, j] + 1;
                         b[i, j] = "left_up";  //表示向左上回溯
@@ -143,7 +143,7 @@ namespace LCS
                 LCSW(a, b, X, i, j - 1);
             }
         }
-        
+
     }
 }
 
