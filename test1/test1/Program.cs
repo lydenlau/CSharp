@@ -143,11 +143,7 @@ namespace LCS
                 LCSW(a, b, X, i, j - 1);
             }
         }
-        // public void symbol(char a)
-        //  {
-        //    LCS.LCS_LENGTH(X,Y);
-        // }
-       
+        
     }
 }
 
