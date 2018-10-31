@@ -1,0 +1,58 @@
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\test3.exe.config
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\test3.exe
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\test3.pdb
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.AppContext.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Console.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Globalization.Calendars.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.IO.Compression.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.IO.FileSystem.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.IO.Packaging.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Net.Http.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Net.Sockets.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Program Files\VS2017_workplace\test3\test3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Program Files\VS2017_workplace\test3\test3\obj\Debug\test3.csprojAssemblyReference.cache
+D:\Program Files\VS2017_workplace\test3\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+D:\Program Files\VS2017_workplace\test3\test3\obj\Debug\test3.csproj.CopyComplete
+D:\Program Files\VS2017_workplace\test3\test3\obj\Debug\test3.exe
+D:\Program Files\VS2017_workplace\test3\test3\obj\Debug\test3.pdb
+C:\Use\github\CSharp\test3\test3\bin\Debug\test3.exe.config
+C:\Use\github\CSharp\test3\test3\bin\Debug\test3.exe
+C:\Use\github\CSharp\test3\test3\bin\Debug\test3.pdb
+C:\Use\github\CSharp\test3\test3\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.AppContext.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Console.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Globalization.Calendars.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.IO.Compression.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.IO.FileSystem.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.IO.Packaging.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Net.Http.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Net.Sockets.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Use\github\CSharp\test3\test3\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Use\github\CSharp\test3\test3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Use\github\CSharp\test3\test3\obj\Debug\test3.csprojAssemblyReference.cache
+C:\Use\github\CSharp\test3\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+C:\Use\github\CSharp\test3\test3\obj\Debug\test3.csproj.CopyComplete
+C:\Use\github\CSharp\test3\test3\obj\Debug\test3.exe
+C:\Use\github\CSharp\test3\test3\obj\Debug\test3.pdb
