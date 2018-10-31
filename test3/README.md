@@ -24,4 +24,4 @@
 - 主函数中调用word读取，之后再调用LCS对两个文档进行比较。通过LCS对比文字，我们可根据"+","-"符号识别哪些内容是一样的，哪些是替换的，哪些是删除的。
 
 # 实验结果如下
-![avatar]（http://r.photo.store.qq.com/psb?/V135Z68L35FN3x/7ZBVt5l6xat8LkztpaqbMoUAxYr88ICczr96L*wNRqY!/r/dDUBAAAAAAAA）
+![avatar](http://r.photo.store.qq.com/psb?/V135Z68L35FN3x/7ZBVt5l6xat8LkztpaqbMoUAxYr88ICczr96L*wNRqY!/r/dDUBAAAAAAAA)
